@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658166852 source:c:\users\j max\desktop\425\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
